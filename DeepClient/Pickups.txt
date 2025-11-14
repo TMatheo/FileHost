@@ -1,0 +1,9 @@
+
+Name: 'CurvePoint' 
+Name: 'ControlPoint' 
+Name: 'OscDebugConsole' 
+Name: 'MirrorPickup' 
+Name: 'PhotoCamera' 
+Name: 'ViewFinder' 
+Name: 'Drone' 
+Name: 'AvatarDebugConsole' 
